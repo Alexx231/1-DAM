@@ -1,0 +1,27 @@
+.cajapadre{
+
+    display: flex
+    
+    }
+
+
+    .container { display: flex; flex-direction:
+        row;}
+        
+        .container-reverse { display: flex;
+        flex-direction: row-reverse;}
+        
+        .container-column { display: flex;
+        flex-direction: column;}
+        
+        .container-column-reverse { display: flex;
+        
+        flex-direction: column-reverse;}
+        
+        .item { width: 50px; height: 50px;
+        
+        background-color: lightblue; margin:
+        5px;
+        
+        }
+        

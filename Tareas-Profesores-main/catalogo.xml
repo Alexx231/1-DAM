@@ -1,0 +1,27 @@
+<catalogo>
+    <libro idioma="es">
+        <titulo>La divina comedia</titulo>
+        <autor>Dante Alighieri</autor>
+        <genero>Poesía épica</genero>
+        <anio>1320</anio>
+    </libro>
+    <libro idioma="es">
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <genero>Novela</genero>
+        <anio>1605</anio>
+    </libro>
+    <libro idioma="es">
+        <titulo>Porqué creemos en mierdas?</titulo>
+        <autor>Ramon Nogueras</autor>
+        <genero>Ensayo</genero>
+        <anio>2021</anio>
+    </libro>
+    <libro idioma="es">
+        <titulo>Mas allá de la libertad y la dignidad</titulo>
+        <autor>Frederic Skinner</autor>
+        <genero>Psicología</genero>
+        <anio>1971</anio>
+    </libro>
+</catalogo>
+
